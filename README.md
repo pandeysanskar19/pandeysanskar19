@@ -37,7 +37,6 @@ My focus areas:
 | **Languages** | C++, Python, JavaScript, SQL, C |
 | **Backend & DB** | MySQL, Firebase (Firestore + Auth), REST APIs |
 | **Frontend** | HTML, CSS, JavaScript |
-| **Mobile** | Flutter |
 | **DevTools** | Git, GitHub, Linux, Postman, Arduino |
 | **Data / ML** | NumPy, Pandas, Matplotlib |
 
