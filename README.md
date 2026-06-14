@@ -63,7 +63,7 @@ My focus areas:
 
 ---
 
-## Currently Building
+## Currently :
 
 - 🔧 Deepening C++ DSA practice (LeetCode + GFG structured roadmap)
 - ☁️ Exploring cloud infrastructure (deployment, Linux environments)
