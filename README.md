@@ -20,7 +20,7 @@
 
 ## What I Do
 
-I build **backend systems and cloud-integrated applications** — writing clean, efficient code in C++ and Python, and thinking carefully about how systems behave at scale. Ex-Tech Intern at **Wyvate**, where I contribute to feature development, performance optimization, and debugging in production.
+I build **backend systems and cloud-integrated applications** — writing clean, efficient code in C++ and Python, and thinking carefully about how systems behave at scale.
 
 My focus areas:
 - **Backend development** — APIs, databases, server-side logic
@@ -35,7 +35,7 @@ My focus areas:
 | Domain | Tools |
 |---|---|
 | **Languages** | C++, Python, JavaScript, SQL, C |
-| **Backend & DB** | MySQL, Firebase (Firestore + Auth), REST APIs |
+| **Backend & DB** | Postgresql, Firebase (Firestore + Auth), REST APIs |
 | **Frontend** | HTML, CSS, JavaScript |
 | **DevTools** | Git, GitHub, Linux, Postman, Arduino |
 | **Data / ML** | NumPy, Pandas, Matplotlib |
