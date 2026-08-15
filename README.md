@@ -20,7 +20,7 @@
 
 ## What I Do
 
-I build **backend systems and cloud-integrated applications** — writing clean, efficient code in C++ and Python, and thinking carefully about how systems behave at scale. Currently a Tech Intern at **Wyvate**, where I contribute to feature development, performance optimization, and debugging in production.
+I build **backend systems and cloud-integrated applications** — writing clean, efficient code in C++ and Python, and thinking carefully about how systems behave at scale. Ex-Tech Intern at **Wyvate**, where I contribute to feature development, performance optimization, and debugging in production.
 
 My focus areas:
 - **Backend development** — APIs, databases, server-side logic
